@@ -1,9 +1,10 @@
 p {
-    color: cyan;
+    color: snow;
     width: 100%;
     text-align: left;
 }
 body {
+    background-image: url('img22.jpg');
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -24,76 +25,4 @@ body {
     text-decoration: none;
     color: snow;
     padding: 10px 20px;
-}
-.btn-yt {
-    background-color: #1a1a1a;
-    
-    border-width: 1px;
-    margin-right: 9px;
-    border-style: solid;
-    border-color: red;
-    border-radius: 5px;
-    float: left;
-    text-decoration: none;
-    color: red;
-}
-.btn-steam {
-    background-color: #1a1a1a;
-    
-    border-width: 1px;
-    margin-right: 9px;
-    border-style: solid;
-    border-color: #2a475e;
-    border-radius: 5px;
-    float: left;
-    text-decoration: none;
-    color: #2a475e;
-}
-.btn-x {
-    background-color: #1a1a1a;
-    
-    border-width: 1px;
-    margin-right: 9px;
-    border-style: solid;
-    border-color: blue;
-    border-radius: 5px;
-    float: left;
-    text-decoration: none;
-    color: blue;
-}
-.btn-reddit {
-    background-color: #1a1a1a;
-    
-    border-width: 1px;
-    margin-right: 9px;
-    border-style: solid;
-    border-color: orange;
-    border-radius: 5px;
-    float: left;
-    text-decoration: none;
-    color: orange;
-}
-.btn-github {
-    background-color: #1a1a1a;
-    
-    border-width: 1px;
-    margin-right: 9px;
-    border-style: solid;
-    border-color: #6cc644;
-    border-radius: 5px;
-    float: left;
-    text-decoration: none;
-    color: #6cc644;
-}
-.btn-email {
-    background-color: #1a1a1a;
-    
-    border-width: 1px;
-    margin-right: 9px;
-    border-style: solid;
-    border-color: #50BAB0;
-    border-radius: 5px;
-    float: left;
-    text-decoration: none;
-    color: #50BAB0;
 }
