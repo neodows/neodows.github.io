@@ -41,12 +41,12 @@ nav a {
     padding: 8px 12px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #5a5a5a;
+    background-color: #1a1a1a;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 nav a:hover {
-    background-color: #e0e0e0;
+    background-color: #949191;
 }
 
 font-face {
